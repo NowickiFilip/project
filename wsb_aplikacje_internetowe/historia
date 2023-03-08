@@ -1,0 +1,14 @@
+    1  git clone [200~https://github.com/NowickiFilip/wsb_aplikacje_internetowe.git~
+    2  git clone https://github.com/NowickiFilip/wsb_aplikacje_internetowe.git
+    3  git clone https://github.com/NowickiFilip/wsb_aplikacje_internetowe.git
+    4  alias c=clear
+    5  history > filehistory
+    6  git add 
+    7  git status
+    8  git commit 
+    9  git status
+   10  ls
+   11  cd
+   12  cd wsb_aplikacje_internetowe
+   13  history
+   14  history > historia
