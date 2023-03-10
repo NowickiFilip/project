@@ -8,7 +8,7 @@ $last_name = "Nowicki";
     $DATA = <<< DATA
     <hr>
     imie: $first_name<br>
-    nazwisko: $last_name
+    nazwisko: $last_names
     <br>
     DATA;
     echo $DATA;
