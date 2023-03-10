@@ -4,9 +4,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>My first PHP file</title>
 </head>
 <body>
+    <?php
     
+    //echo 'hello, ma boi';
+    $name = 'Filip';
+    $age = 30;
+    
+    
+    
+    ?>
 </body>
 </html>
